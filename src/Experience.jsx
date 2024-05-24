@@ -68,7 +68,7 @@ export default function Experience() {
                         rotation-y={-0.0010}
                         maxWidth={2}
                         textAlign="center"
-                        material={textMaterial}
+                        // material={textMaterial}
                     >
                         WHITE
                     </Text>
@@ -80,7 +80,7 @@ export default function Experience() {
                         rotation-y={-0.0010}
                         maxWidth={2}
                         textAlign="center"
-                        material={textMaterial}
+                        // material={textMaterial}
                     >
                         DEVIL
                     </Text>
