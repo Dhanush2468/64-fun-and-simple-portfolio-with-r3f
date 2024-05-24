@@ -1,0 +1,24 @@
+html,
+body,
+#root {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(./textures/bg-image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+canvas {
+    touch-action: none;
+}
+
+.computer-screen iframe {
+    width: 800px;
+    height: 430px;
+    border: none;
+    border-radius: 10px;
+}
+
